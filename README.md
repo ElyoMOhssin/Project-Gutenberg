@@ -1,2 +1,1 @@
-# Project-Gutenberg
-Text Mining Project Gutenberg
+# Sentiment analysis with Netflix
